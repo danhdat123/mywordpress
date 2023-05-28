@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; NguyenDanhDat &#8212; WordPress</title>
+	<title>Log In &lsaquo;  &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="stylesheet" id="dashicons-css" href="https://danhdat123.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=6.2.2" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://danhdat123.github.io/mywordpress/wp-includes/css/buttons.min.css?ver=6.2.2" media="all">
@@ -11,10 +11,10 @@
 <link rel="stylesheet" id="login-css" href="https://danhdat123.github.io/mywordpress/wp-admin/css/login.min.css?ver=6.2.2" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-	<link rel="icon" href="https://danhdat123.github.io/mywordpress/wp-content/uploads/2023/05/aviacademy-logo-yellow-JV3LGS-150x138.png" sizes="32x32">
-<link rel="icon" href="https://danhdat123.github.io/mywordpress/wp-content/uploads/2023/05/aviacademy-logo-yellow-JV3LGS.png" sizes="192x192">
-<link rel="apple-touch-icon" href="https://danhdat123.github.io/mywordpress/wp-content/uploads/2023/05/aviacademy-logo-yellow-JV3LGS.png">
-<meta name="msapplication-TileImage" content="https://danhdat123.github.io/mywordpress/wp-content/uploads/2023/05/aviacademy-logo-yellow-JV3LGS.png">
+	<link rel="icon" href="https://danhdat123.github.io/mywordpress/wp-content/uploads/2023/05/cropped-cheerful-aviator-and-flight-attendants-standing-on-the-boarding-stairs-e1630639237397-32x32.jpg" sizes="32x32">
+<link rel="icon" href="https://danhdat123.github.io/mywordpress/wp-content/uploads/2023/05/cropped-cheerful-aviator-and-flight-attendants-standing-on-the-boarding-stairs-e1630639237397-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://danhdat123.github.io/mywordpress/wp-content/uploads/2023/05/cropped-cheerful-aviator-and-flight-attendants-standing-on-the-boarding-stairs-e1630639237397-180x180.jpg">
+<meta name="msapplication-TileImage" content="https://danhdat123.github.io/mywordpress/wp-content/uploads/2023/05/cropped-cheerful-aviator-and-flight-attendants-standing-on-the-boarding-stairs-e1630639237397-270x270.jpg">
 	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">document.body.className = document.body.className.replace('no-js','js');</script>
@@ -39,18 +39,18 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
-									<input type="hidden" name="redirect_to" value="http://mywordpress.test/wp-admin/?simply_static_page=106">
+									<input type="hidden" name="redirect_to" value="http://mywordpress.test/wp-admin/">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
 
 					<p id="nav">
-				<a href="https://danhdat123.github.io/mywordpress/wp-login.php?action=lostpassword">Lost your password?</a>			</p>
+				<a href="https://danhdat123.github.io/mywordpress/lost-password/">Lost your password?</a>			</p>
 					<script type="text/javascript">function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
-			<a href="https://danhdat123.github.io/mywordpress/">&larr; Go to NguyenDanhDat</a>		</p>
+			<a href="https://danhdat123.github.io/mywordpress/">&larr; Go to </a>		</p>
 			</div>
 			<script src="https://danhdat123.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
 <script src="https://danhdat123.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
@@ -69,7 +69,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://danhdat123.github.io/mywordpress/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://danhdat123.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"811112314a"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"2f68e1d8f9"};</script>
 <script src="https://danhdat123.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=6.2.2" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
