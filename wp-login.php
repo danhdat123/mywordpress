@@ -39,7 +39,7 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
-									<input type="hidden" name="redirect_to" value="http://mywordpress.test/wp-admin/">
+									<input type="hidden" name="redirect_to" value="http://mywordpress.test/wp-admin/site-editor.php?simply_static_page=90329">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
@@ -69,7 +69,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://danhdat123.github.io/mywordpress/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://danhdat123.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"2f68e1d8f9"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"72e0f0016d"};</script>
 <script src="https://danhdat123.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=6.2.2" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
