@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>chastening</title>
+	<title>chastening Archives -</title>
 	<atom:link href="https://danhdat123.github.io/mywordpress/category/chastening/feed/" rel="self" type="application/rss+xml" />
-	<link>https://danhdat123.github.io/mywordpress/</link>
+	<link>https://danhdat123.github.io/mywordpress/category/chastening/</link>
 	<description></description>
 	<lastBuildDate>Thu, 02 Jul 2009 09:00:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>https://danhdat123.github.io/mywordpress/wp-content/uploads/2023/05/cropped-cheerful-aviator-and-flight-attendants-standing-on-the-boarding-stairs-e1630639237397-32x32.jpg</url>
-	<title>chastening</title>
-	<link>https://danhdat123.github.io/mywordpress/</link>
+	<title>chastening Archives -</title>
+	<link>https://danhdat123.github.io/mywordpress/category/chastening/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -98,8 +98,11 @@
 		<category><![CDATA[edge case]]></category>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/11/24/many-categories/</guid>
 
-					<description><![CDATA[This post has many categories.]]></description>
+					<description><![CDATA[<p>This post has many categories.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/edge-case-many-categories/">Edge Case: Many Categories</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>This post has many categories.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/edge-case-many-categories/">Edge Case: Many Categories</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
 ]]></content:encoded>
 					
 		

@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>video</title>
+	<title>video Archives -</title>
 	<atom:link href="https://danhdat123.github.io/mywordpress/tag/video/feed/" rel="self" type="application/rss+xml" />
-	<link>https://danhdat123.github.io/mywordpress/</link>
+	<link>https://danhdat123.github.io/mywordpress/tag/video/</link>
 	<description></description>
 	<lastBuildDate>Thu, 03 Jun 2010 15:25:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>https://danhdat123.github.io/mywordpress/wp-content/uploads/2023/05/cropped-cheerful-aviator-and-flight-attendants-standing-on-the-boarding-stairs-e1630639237397-32x32.jpg</url>
-	<title>video</title>
-	<link>https://danhdat123.github.io/mywordpress/</link>
+	<title>video Archives -</title>
+	<link>https://danhdat123.github.io/mywordpress/tag/video/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -39,9 +39,12 @@
 		<category><![CDATA[wordpress.tv]]></category>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=582</guid>
 
-					<description><![CDATA[Posted as per the instructions in the Codex.]]></description>
+					<description><![CDATA[<p>Posted as per the instructions in the Codex.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/post-format-video-wordpresstv/">Post Format: Video (WordPress.tv)</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p><embed src="http://v.wordpress.com/hrPKeL5t" type="application/x-shockwave-flash" width="500" height="281" allowscriptaccess="always" allowfullscreen="true" wmode="transparent"></embed></p>
 <p>Posted as per the <a href="http://codex.wordpress.org/Embeds" target="_blank" rel="noopener">instructions in the Codex</a>.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/post-format-video-wordpresstv/">Post Format: Video (WordPress.tv)</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
 ]]></content:encoded>
 					
 		
@@ -61,10 +64,13 @@
 		<category><![CDATA[videopress]]></category>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=1005</guid>
 
-					<description><![CDATA[[wpvideo tFnqC9XQ w=680] VideoPress, especially as a video post format, usually provides some unique styling [&#8230;]]]></description>
+					<description><![CDATA[<p>[wpvideo tFnqC9XQ w=680] VideoPress, especially as a video post format, usually provides some unique styling [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/post-format-video-videopress/">Post Format: Video (VideoPress)</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>[wpvideo tFnqC9XQ w=680]</p>
 <p><a title="VideoPress Plugin for WordPress" href="http://videopress.com/" target="_blank" rel="noopener">VideoPress</a>, especially as a video post format, usually provides some unique styling issues.</p>
 <p>You will need to install <a title="Jetpack for WordPress" href="http://jetpack.me/" target="_blank" rel="noopener">Jetpack</a> or <a title="Slim Jetpack" href="http://wordpress.org/extend/plugins/slimjetpack/" target="_blank" rel="noopener">Slim Jetpack</a> plugin to turn the shortcode into a viewable video.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/post-format-video-videopress/">Post Format: Video (VideoPress)</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
 ]]></content:encoded>
 					
 		
@@ -124,8 +130,11 @@
 		<category><![CDATA[wordpress.tv]]></category>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/11/24/many-tags/</guid>
 
-					<description><![CDATA[This post has many tags.]]></description>
+					<description><![CDATA[<p>This post has many tags.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/edge-case-many-tags/">Edge Case: Many Tags</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>This post has many tags.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/edge-case-many-tags/">Edge Case: Many Tags</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
 ]]></content:encoded>
 					
 		

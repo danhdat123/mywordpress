@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Unpublished</title>
+	<title>Unpublished Archives -</title>
 	<atom:link href="https://danhdat123.github.io/mywordpress/category/unpublished/feed/" rel="self" type="application/rss+xml" />
-	<link>https://danhdat123.github.io/mywordpress/</link>
+	<link>https://danhdat123.github.io/mywordpress/category/unpublished/</link>
 	<description></description>
 	<lastBuildDate>Wed, 01 Jan 2020 19:00:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>https://danhdat123.github.io/mywordpress/wp-content/uploads/2023/05/cropped-cheerful-aviator-and-flight-attendants-standing-on-the-boarding-stairs-e1630639237397-32x32.jpg</url>
-	<title>Unpublished</title>
-	<link>https://danhdat123.github.io/mywordpress/</link>
+	<title>Unpublished Archives -</title>
+	<link>https://danhdat123.github.io/mywordpress/category/unpublished/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -37,9 +37,12 @@
 		<category><![CDATA[content]]></category>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=418</guid>
 
-					<description><![CDATA[This post is scheduled to be published in the future. It should not be displayed [&#8230;]]]></description>
+					<description><![CDATA[<p>This post is scheduled to be published in the future. It should not be displayed [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/scheduled/">Scheduled</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>This post is scheduled to be published in the future.</p>
 <p>It should not be displayed by the theme.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/scheduled/">Scheduled</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
 ]]></content:encoded>
 					
 		
@@ -116,8 +119,11 @@
 		<category><![CDATA[edge case]]></category>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/11/24/many-categories/</guid>
 
-					<description><![CDATA[This post has many categories.]]></description>
+					<description><![CDATA[<p>This post has many categories.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/edge-case-many-categories/">Edge Case: Many Categories</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>This post has many categories.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/edge-case-many-categories/">Edge Case: Many Categories</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
 ]]></content:encoded>
 					
 		

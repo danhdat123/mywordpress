@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>featured image</title>
+	<title>featured image Archives -</title>
 	<atom:link href="https://danhdat123.github.io/mywordpress/tag/featured-image/feed/" rel="self" type="application/rss+xml" />
-	<link>https://danhdat123.github.io/mywordpress/</link>
+	<link>https://danhdat123.github.io/mywordpress/tag/featured-image/</link>
 	<description></description>
 	<lastBuildDate>Thu, 15 Mar 2012 22:36:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>https://danhdat123.github.io/mywordpress/wp-content/uploads/2023/05/cropped-cheerful-aviator-and-flight-attendants-standing-on-the-boarding-stairs-e1630639237397-32x32.jpg</url>
-	<title>featured image</title>
-	<link>https://danhdat123.github.io/mywordpress/</link>
+	<title>featured image Archives -</title>
+	<link>https://danhdat123.github.io/mywordpress/tag/featured-image/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -42,10 +42,13 @@
 		<category><![CDATA[template]]></category>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=1016</guid>
 
-					<description><![CDATA[This post should display a featured image, if the theme supports it. Non-square images can provide some [&#8230;]]]></description>
+					<description><![CDATA[<p>This post should display a featured image, if the theme supports it. Non-square images can provide some [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/template-featured-image-vertical/">Template: Featured Image (Vertical)</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>This post should display a <a title="Featured Images" href="http://en.support.wordpress.com/featured-images/#setting-a-featured-image" target="_blank" rel="noopener">featured image</a>, if the theme <a title="Post Thumbnails" href="http://codex.wordpress.org/Post_Thumbnails" target="_blank" rel="noopener">supports it</a>.</p>
 <p>Non-square images can provide some unique styling issues.</p>
 <p>This post tests a vertical featured image.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/template-featured-image-vertical/">Template: Featured Image (Vertical)</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
 ]]></content:encoded>
 					
 		
@@ -66,10 +69,13 @@
 		<category><![CDATA[template]]></category>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=1011</guid>
 
-					<description><![CDATA[This post should display a featured image, if the theme supports it. Non-square images can [&#8230;]]]></description>
+					<description><![CDATA[<p>This post should display a featured image, if the theme supports it. Non-square images can [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/template-featured-image-horizontal/">Template: Featured Image (Horizontal)</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>This post should display a <a title="Featured Images" href="http://en.support.wordpress.com/featured-images/#setting-a-featured-image" target="_blank" rel="noopener">featured image</a>, if the theme <a title="Post Thumbnails" href="http://codex.wordpress.org/Post_Thumbnails" target="_blank" rel="noopener">supports it</a>.</p>
 <p>Non-square images can provide some unique styling issues.</p>
 <p>This post tests a horizontal featured image.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/template-featured-image-horizontal/">Template: Featured Image (Horizontal)</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
 ]]></content:encoded>
 					
 		
@@ -129,8 +135,11 @@
 		<category><![CDATA[wordpress.tv]]></category>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/11/24/many-tags/</guid>
 
-					<description><![CDATA[This post has many tags.]]></description>
+					<description><![CDATA[<p>This post has many tags.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/edge-case-many-tags/">Edge Case: Many Tags</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>This post has many tags.</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/edge-case-many-tags/">Edge Case: Many Tags</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
 ]]></content:encoded>
 					
 		

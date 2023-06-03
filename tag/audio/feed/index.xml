@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>audio Archives -</title>
+	<atom:link href="https://danhdat123.github.io/mywordpress/tag/audio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://danhdat123.github.io/mywordpress/tag/audio/</link>
+	<description></description>
+	<lastBuildDate>Fri, 02 Jul 2010 15:36:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://danhdat123.github.io/mywordpress/wp-content/uploads/2023/05/cropped-cheerful-aviator-and-flight-attendants-standing-on-the-boarding-stairs-e1630639237397-32x32.jpg</url>
+	<title>audio Archives -</title>
+	<link>https://danhdat123.github.io/mywordpress/tag/audio/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Post Format: Audio</title>
+		<link>https://danhdat123.github.io/mywordpress/post-format-audio/</link>
+		
+		<dc:creator><![CDATA[danhdat123]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2010 15:36:44 +0000</pubDate>
+				<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[audio]]></category>
+		<category><![CDATA[shortcode]]></category>
+		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=587</guid>
+
+					<description><![CDATA[<p>Link: St. Louis Blues Audio shortcode:</p>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/post-format-audio/">Post Format: Audio</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Link:</p>
+<p><a href="https://danhdat123.github.io/mywordpress/wp-content/uploads/2012/07/originaldixielandjazzbandwithalbernard-stlouisblues.mp3">St. Louis Blues</a></p>
+<p>Audio shortcode:</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-587-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://danhdat123.github.io/mywordpress/wp-content/uploads/2012/07/originaldixielandjazzbandwithalbernard-stlouisblues.mp3?_=1" /><a href="https://danhdat123.github.io/mywordpress/wp-content/uploads/2012/07/originaldixielandjazzbandwithalbernard-stlouisblues.mp3">https://danhdat123.github.io/mywordpress/wp-content/uploads/2012/07/originaldixielandjazzbandwithalbernard-stlouisblues.mp3</a></audio>
+<p>The post <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/post-format-audio/">Post Format: Audio</a> appeared first on <a rel="nofollow" href="https://danhdat123.github.io/mywordpress/"></a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://danhdat123.github.io/mywordpress/wp-content/uploads/2012/07/originaldixielandjazzbandwithalbernard-stlouisblues.mp3" length="3043247" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>
